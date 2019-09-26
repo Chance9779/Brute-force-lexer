@@ -1,0 +1,36 @@
+lexeme: |Ab_123|, length: 6, token: 4000
+lexeme: |(|, length: 1, token: 2001
+lexeme: |"hello world"|, length: 13, token: 4003
+lexeme: |)|, length: 1, token: 2002
+lexeme: |#|, length: 1, token: 6000
+   ERROR: unknown token
+lexeme: |321|, length: 3, token: 4001
+lexeme: |ab|, length: 2, token: 4000
+lexeme: |forever|, length: 7, token: 4000
+lexeme: |if|, length: 2, token: 1001
+lexeme: |int|, length: 3, token: 1100
+lexeme: |for|, length: 3, token: 1003
+lexeme: |<|, length: 1, token: 3006
+lexeme: |<>|, length: 2, token: 3008
+lexeme: |>|, length: 1, token: 3007
+lexeme: |else|, length: 4, token: 1002
+lexeme: |for|, length: 3, token: 1003
+lexeme: |print|, length: 5, token: 1005
+lexeme: |while|, length: 5, token: 1004
+lexeme: |return|, length: 6, token: 1006
+lexeme: |continue|, length: 8, token: 1007
+lexeme: |float|, length: 5, token: 1101
+lexeme: |12.34|, length: 5, token: 4002
+lexeme: |int|, length: 3, token: 1100
+lexeme: |234|, length: 3, token: 4001
+lexeme: |string|, length: 6, token: 1102
+lexeme: |"
+I'm a string, I'm also a string"|, length: 35, token: 4003
+lexeme: |green|, length: 5, token: 4000
+lexeme: |:=|, length: 2, token: 3004
+lexeme: |21.2|, length: 4, token: 4002
+lexeme: |length|, length: 6, token: 3012
+lexeme: |==|, length: 2, token: 3005
+lexeme: |and|, length: 3, token: 3009
+lexeme: |orand|, length: 5, token: 4000
+lexeme: |or|, length: 2, token: 3010

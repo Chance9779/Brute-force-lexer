@@ -1,0 +1,14 @@
+Unix Commands
+
+cat sample.in | ./lex.exe > sample.out
+cat sample2.in | ./lex.exe > sample2.out
+cat sample3.in | ./lex.exe > sample3.out
+cat sample4.in | ./lex.exe > sample4.out
+
+
+Windows Commands
+
+type sample.in | lex.exe > sample.out
+type sample2.in | lex.exe > sample2.out
+type sample3.in | lex.exe > sample3.out
+type sample4.in | lex.exe > sample4.out
